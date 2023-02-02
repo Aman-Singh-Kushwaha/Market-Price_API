@@ -1,0 +1,14 @@
+{
+  "name": "market-api",
+  "version": "1.0.0",
+  "description": "To Share rate prices from market",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Singh Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
